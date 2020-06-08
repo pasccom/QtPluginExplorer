@@ -1,0 +1,10 @@
+# Output files folders:
+debug/
+release/
+.obj_*/
+.qmake.stash
+Makefile
+
+# Qt Creator config
+*.pro.user*
+
