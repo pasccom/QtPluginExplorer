@@ -9,6 +9,8 @@ CONFIG -= app_bundle
 
 SOURCES += main.cpp
 
+OTHER_FILES += README.md
+
 # Changing output directories:
 win32 {
     OBJECTS_DIR = ./.obj_win
